@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{PoSoriginal}
+Elliot Anshelevich, Anirban Dasgupta, Jon~M. Kleinberg, {\'{E}}va Tardos, Tom
+  Wexler, and Tim Roughgarden.
+\newblock The price of stability for network design with fair cost allocation.
+\newblock {\em {SIAM} J. Comput.}, 38(4):1602--1623, 2008.
+
+\bibitem{bilo}
+Vittorio Bil{\`{o}}, Michele Flammini, Gianpiero Monaco, and Luca Moscardelli.
+\newblock Some anomalies of farsighted strategic behavior.
+\newblock {\em Theory Comput. Syst.}, 56(1):156--180, 2015.
+
+\bibitem{Chen+Potts+Woeginger/1999}
+Bo~Chen, Chris~N. Potts, and Gerhard~J. Woeginger.
+\newblock {\em Handbook of Combinatorial Optimization}, chapter A Review of
+  Machine Scheduling: Complexity, Algorithms and Approximability, pages
+  1493--1641.
+\newblock Springer, 1999.
+
+\bibitem{SPOAcongestion}
+Jasper de~Jong and Marc Uetz.
+\newblock The sequential price of anarchy for atomic congestion games.
+\newblock In {\em Proc. of the 10th International Conference on Web and
+  Internet Economics (WINE)}, volume 8877 of {\em LNCS}, pages 429--434, 2014.
+
+\bibitem{Graham}
+Ronald~L. Graham.
+\newblock Bounds on multiprocessing timing anomalies.
+\newblock {\em {SIAM} Journal of Applied Mathematics}, 17(2):416--429, 1969.
+
+\bibitem{Hassin}
+Refael Hassin and Uri Yovel.
+\newblock Sequential scheduling on identical machines.
+\newblock {\em Oper. Res. Lett.}, 43(5):530--533, 2015.
+
+\bibitem{PoAoriginal}
+Elias Koutsoupias and Christos~H. Papadimitriou.
+\newblock Worst-case equilibria.
+\newblock In {\em Proc. of the 16th Annual Symposium on Theoretical Aspects of
+  Computer Science (STACS)}, volume 1563 of {\em LNCS}, pages 404--413, 1999.
+
+\bibitem{originalSPOA}
+Renato~Paes Leme, Vasilis Syrgkanis, and {\'{E}}va Tardos.
+\newblock The curse of simultaneity.
+\newblock In {\em Proc. of Innovations in Theoretical Computer Science (ITCS)},
+  pages 60--67, 2012.
+
+\bibitem{Pinedo/2012}
+Michael~L. Pinedo.
+\newblock {\em Scheduling: Theory, Algorithms, and Systems}.
+\newblock Springer, 2012.
+
+\end{thebibliography}
